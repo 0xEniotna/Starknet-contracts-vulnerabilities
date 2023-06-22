@@ -15,6 +15,13 @@ Each _Not So Smart Contract_ includes a standard set of information:
 * Real-world contracts that exhibit the flaw
 * References to third-party resources with more information
 
+## Checklist
+- Unexpected variable shadowing
+- Wrong function attribute
+- Access control
+- Unsafe external call
+- 
+
 ## Vulnerabilities
 
 | Not So Smart Contract | Description |
